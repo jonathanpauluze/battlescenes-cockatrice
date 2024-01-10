@@ -262,7 +262,7 @@ entretenimento aos fãs.
   <cards>
     <!-- Início Promo (Arte Alterada) -->
     <card>
-      <name>CAÇA AOS RENEGADOS</name>
+      <name>CAÇA AOS RENEGADOS [V1 (2018) PROMO 01 LIGA CWB]</name>
       <tablerow>1</tablerow>
       <set rarity="promo" num="1" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/c001.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -274,7 +274,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>UNIDOS, VENCEREMOS!</name>
+      <name>UNIDOS, VENCEREMOS! [V1 PROMO | O ARTEFATO]</name>
       <tablerow>1</tablerow>
       <set rarity="promo" num="2" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/c002.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -286,7 +286,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>JOIA DO INFINITO - PODER</name>
+      <name>JOIA DO INFINITO - PODER [V1 - ARTE ALTERADA]</name>
       <tablerow>3</tablerow>
       <set rarity="promo" num="3" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/hzz003.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -298,7 +298,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>JOIA DO INFINITO - TEMPO</name>
+      <name>JOIA DO INFINITO - TEMPO [V1 - ARTE ALTERADA]</name>
       <tablerow>3</tablerow>
       <set rarity="promo" num="4" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/hzz004.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -310,7 +310,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CAÇA-HULK</name>
+      <name>CAÇA-HULK [V2 (2018) PROMO 08 LCWB]</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="5" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p001.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -322,7 +322,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>TONY STARK</name>
+      <name>TONY STARK [V1 (2018) PROMO 03 LCWB]</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="6" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p002.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -334,7 +334,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>HOMEM DE FERRO</name>
+      <name>HOMEM DE FERRO [V1 (2018) PROMO 02 LCWB]</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="7" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p003.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -346,7 +346,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>DR. ESTRANHO</name>
+      <name>DR. ESTRANHO [V2 (2018) PROMO 02 LCWB]</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="8" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p004.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -358,7 +358,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>DR. ESTRANHO</name>
+      <name>DR. ESTRANHO [V2 (2018) PROMO 02 LCWB]</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="9" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p005.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -370,7 +370,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>HOMEM-ARANHA</name>
+      <name>HOMEM-ARANHA [V6 (2018) PROMO 04 LCWB]</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="10" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p006.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -382,7 +382,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>HOMEM-ARANHA</name>
+      <name>HOMEM-ARANHA [V6 (2018) PROMO 04 LCWB]</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="11" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p007.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -394,7 +394,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>TONY STARK</name>
+      <name>TONY STARK [V1 (2018) PROMO 03 LCWB] (2)</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="12" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p008.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -406,7 +406,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>HOMEM DE FERRO</name>
+      <name>HOMEM DE FERRO [V1 (2018) PROMO 02 LCWB] (2)</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="13" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p009.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -418,7 +418,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>HOMEM DE FERRO</name>
+      <name>HOMEM DE FERRO [V1 (2018) PROMO 02 LCWB] (3)</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="14" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p010.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -430,7 +430,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>TONY STARK</name>
+      <name>TONY STARK [V1 (2018) PROMO 03 LCWB] (3)</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="15" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p011.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -442,7 +442,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>TONY STARK</name>
+      <name>TONY STARK [V1 (2018) PROMO 03 LCWB] (4)</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="16" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p012.jpg">PROMO_ALTEREDART</set>
       <prop>
@@ -454,7 +454,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>MYSTÉRIO</name>
+      <name>MYSTÉRIO [V1 (2018) - FAN MADE]</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="17" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p013.jpg">PROMO_ALTEREDART</set>
       <prop>
