@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Marvel Battle Scenes para Cockatrice -->
+<!-- Créditos do Jogo - Criador: Fabian Balbinot -->
+<!-- Adaptação para o Cockatrice: Jonathan Pauluze -->
+<!-- Última atualização: 09/01/2024 -->
+
+<!--
+  ==== AVISO ====
+  As imagens das cartas são de direitos da COPAG/Battle Scenes/Marvel.
+  As imagens compartilhadas neste espaço, têm a intenção exclusiva de proporcionar diversão e entretenimento aos fãs.
+  Não visamos violar direitos autorais nem obter lucros com o uso dessas imagens.
+-->
+
+<!--
+  uUilização do tablerow
+  1: Cenário
+  2: Personagem
+  3: Habilidade
+-->
+
+<cockatrice_carddatabase version="4">
+
+  <sets>
+    <set>
+      <name>BSCA_DECK</name>
+      <longname>Confronto Aracnídeo - Deck</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2017-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSCA</name>
+      <longname>Confronto Aracnídeo</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2017-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSCA_MASTERBOX</name>
+      <longname>Master Box - Confronto Aracnídeo</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2017-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSFE_DECK</name>
+      <longname>Forças Estelares - Deck</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2017-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSFE</name>
+      <longname>Forças Estelares</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2017-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSFE_MASTERBOX</name>
+      <longname>Master Box - Forças Estelares</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2017-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSBR_PROMO</name>
+      <longname>Battle Royal - Promo</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2017-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSDS</name>
+      <longname>Despertar Sombrio</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2016-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSDS_DECK</name>
+      <longname>Despertar Sombrio - Deck</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2016-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSCN_BATTLEBOX</name>
+      <longname>Battle Box - Criaturas Noturnas</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2016-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSAQ</name>
+      <longname>Ascenção e Queda</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2016-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSAQ_DECK</name>
+      <longname>Ascenção e Queda - Deck</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2016-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSGC</name>
+      <longname>Guerra Civil</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2016-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSGC_DECK</name>
+      <longname>Guerra Civil - Deck</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2016-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSCI_BATTLEBOX</name>
+      <longname>Battle Box - Conspiração Illuminati</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2016-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSOS</name>
+      <longname>Ofensiva Surpresa</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2015-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSOS_DECK</name>
+      <longname>Ofensiva Surpresa - Deck</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2015-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSEU_BATTLEBOX</name>
+      <longname>Battle Box - Era de Ultron</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2014-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSIV</name>
+      <longname>Iniciativa Vingadores</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2015-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSIV_DECK</name>
+      <longname>Iniciativa Vingadores - Deck</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2015-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>PROMO</name>
+      <longname>Promo - Promo</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2013-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>PROMO_ALTEREDART</name>
+      <longname>Arte Alterada - Promo</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2018-01-01</releasedate>
+    </set>
+
+
+    <set>
+      <name>BSGISA_BATTLEBOX</name>
+      <longname>Battle Box - Guerra Incessante/Sangue Asgardiano</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2014-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSIC</name>
+      <longname>Invasão Cósmica</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2014-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSIC_DECK</name>
+      <longname>Invasão Cósmica - Deck</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2014-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSMI</name>
+      <longname>Múltiplas Identidades</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2014-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSMI_DECK</name>
+      <longname>Múltiplas Identidades - Deck</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2014-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSPO</name>
+      <longname>Poderes Ocultos</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2014-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSPO_DECK</name>
+      <longname>Poderes Ocultos - Deck</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2014-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSET</name>
+      <longname>Evolução Tática</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2013-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSET_DECK</name>
+      <longname>Evolução Tática - Deck</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2013-01-01</releasedate>
+    </set>
+
+    <set>
+      <name>BSUM</name>
+      <longname>Universo Marvel</longname>
+      <settype>Battle Scenes</settype>
+      <releasedate>2013-01-01</releasedate>
+    </set>
+  </sets>
+
+
+  <cards>
+    <!-- Início Promo (Arte Alterada) -->
+    <card>
+      <name>Caça aos Renegados</name>
+      <tablerow>1</tablerow>
+      <set rarity="promo" num="1"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/c001.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Unidos, Venceremos!</name>
+      <tablerow>1</tablerow>
+      <set rarity="promo" num="2"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/c002.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Joia do Infinito - Poder</name>
+      <tablerow>3</tablerow>
+      <set rarity="promo" num="3"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/hzz003.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Joia do Infinito - Tempo</name>
+      <tablerow>3</tablerow>
+      <set rarity="promo" num="4"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/hzz004.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Caça-Hulk</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="5"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p001.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Tony Stark</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="6"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p002.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Homem de Ferro</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="7"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p003.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Dr. Estranho</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="8"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p004.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Dr. Estranho</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="9"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p005.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Homem-Aranha</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="10"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p006.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Homem-Aranha</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="11"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p007.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+     <card>
+      <name>Tony Stark</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="12"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p008.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Homem de Ferro</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="13"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p009.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Homem de Ferro</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="14"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p010.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Tony Stark</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="15"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p011.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Tony Stark</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="16"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p012.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>Mystério</name>
+      <tablerow>2</tablerow>
+      <set rarity="promo" num="17"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p012.jpg">PROMO_ALTEREDART</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+    <!-- Fim Promo (Arte Alterada) -->
+  </cards>
+</cockatrice_carddatabase>
