@@ -252,7 +252,7 @@
   <cards>
     <!-- Início Promo (Arte Alterada) -->
     <card>
-      <name>Caça aos Renegados</name>
+      <name>CAÇA AOS RENEGADOS</name>
       <tablerow>1</tablerow>
       <set rarity="promo" num="1"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/c001.jpg">PROMO_ALTEREDART</set>
@@ -265,7 +265,7 @@
     </card>
 
     <card>
-      <name>Unidos, Venceremos!</name>
+      <name>UNIDOS, VENCEREMOS!</name>
       <tablerow>1</tablerow>
       <set rarity="promo" num="2"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/c002.jpg">PROMO_ALTEREDART</set>
@@ -278,7 +278,7 @@
     </card>
 
     <card>
-      <name>Joia do Infinito - Poder</name>
+      <name>JOIA DO INFINITO - PODER</name>
       <tablerow>3</tablerow>
       <set rarity="promo" num="3"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/hzz003.jpg">PROMO_ALTEREDART</set>
@@ -291,7 +291,7 @@
     </card>
 
     <card>
-      <name>Joia do Infinito - Tempo</name>
+      <name>JOIA DO INFINITO - TEMPO</name>
       <tablerow>3</tablerow>
       <set rarity="promo" num="4"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/hzz004.jpg">PROMO_ALTEREDART</set>
@@ -304,7 +304,7 @@
     </card>
 
     <card>
-      <name>Caça-Hulk</name>
+      <name>CAÇA-HULK</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="5"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p001.jpg">PROMO_ALTEREDART</set>
@@ -317,7 +317,7 @@
     </card>
 
     <card>
-      <name>Tony Stark</name>
+      <name>TONY STARK</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="6"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p002.jpg">PROMO_ALTEREDART</set>
@@ -330,7 +330,7 @@
     </card>
 
     <card>
-      <name>Homem de Ferro</name>
+      <name>HOMEM DE FERRO</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="7"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p003.jpg">PROMO_ALTEREDART</set>
@@ -343,7 +343,7 @@
     </card>
 
     <card>
-      <name>Dr. Estranho</name>
+      <name>DR. ESTRANHO</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="8"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p004.jpg">PROMO_ALTEREDART</set>
@@ -356,7 +356,7 @@
     </card>
 
     <card>
-      <name>Dr. Estranho</name>
+      <name>DR. ESTRANHO</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="9"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p005.jpg">PROMO_ALTEREDART</set>
@@ -369,7 +369,7 @@
     </card>
 
     <card>
-      <name>Homem-Aranha</name>
+      <name>HOMEM-ARANHA</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="10"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p006.jpg">PROMO_ALTEREDART</set>
@@ -382,7 +382,7 @@
     </card>
 
     <card>
-      <name>Homem-Aranha</name>
+      <name>HOMEM-ARANHA</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="11"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p007.jpg">PROMO_ALTEREDART</set>
@@ -395,7 +395,7 @@
     </card>
 
      <card>
-      <name>Tony Stark</name>
+      <name>TONY STARK</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="12"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p008.jpg">PROMO_ALTEREDART</set>
@@ -408,7 +408,7 @@
     </card>
 
     <card>
-      <name>Homem de Ferro</name>
+      <name>HOMEM DE FERRO</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="13"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p009.jpg">PROMO_ALTEREDART</set>
@@ -421,7 +421,7 @@
     </card>
 
     <card>
-      <name>Homem de Ferro</name>
+      <name>HOMEM DE FERRO</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="14"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p010.jpg">PROMO_ALTEREDART</set>
@@ -434,7 +434,7 @@
     </card>
 
     <card>
-      <name>Tony Stark</name>
+      <name>TONY STARK</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="15"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p011.jpg">PROMO_ALTEREDART</set>
@@ -447,7 +447,7 @@
     </card>
 
     <card>
-      <name>Tony Stark</name>
+      <name>TONY STARK</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="16"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p012.jpg">PROMO_ALTEREDART</set>
@@ -460,7 +460,7 @@
     </card>
 
     <card>
-      <name>Mystério</name>
+      <name>MYSTÉRIO</name>
       <tablerow>2</tablerow>
       <set rarity="promo" num="17"
         picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/000_bsalteredart/p012.jpg">PROMO_ALTEREDART</set>
@@ -472,5 +472,685 @@
       </prop>
     </card>
     <!-- Fim Promo (Arte Alterada) -->
+
+
+
+    <!-- Início Universo Marvel -->
+    <card>
+      <name>AGENTE S.H.I.E.L.D.</name>
+      <tablerow>2</tablerow>
+      <set rarity="common" num="1"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_001.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>CAPANGA DO REI</name>
+      <tablerow>2</tablerow>
+      <set rarity="common" num="2"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_002.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>CAPITÃO AMÉRICA</name>
+      <tablerow>2</tablerow>
+      <set rarity="super rare" num="3"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_003.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>CICLOPE</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="4"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_004.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>COISA</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="5"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_005.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>COISA</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="5"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_005.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>COLOSSUS</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="6"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_006.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>DEMOLIDOR</name>
+      <tablerow>2</tablerow>
+      <set rarity="common" num="7"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_007.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>DENTE-DE-SABRE</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="8"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_008.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>DR. DESTINO</name>
+      <tablerow>2</tablerow>
+      <set rarity="ultra rare" num="9"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_009.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>DR. OCTOPUS</name>
+      <tablerow>2</tablerow>
+      <set rarity="rare" num="10"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_010.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>DUENDE VERDE</name>
+      <tablerow>2</tablerow>
+      <set rarity="common" num="11"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_011.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>ELEKTRA</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="12"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_012.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>EMMA FROST</name>
+      <tablerow>2</tablerow>
+      <set rarity="common" num="13"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_013.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>FANÁTICO</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="14"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_014.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>FÊNIX</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="15"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_015.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>FERA</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="16"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_016.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>GAVIÃO ARQUEIRO</name>
+      <tablerow>2</tablerow>
+      <set rarity="common" num="17"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_017.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>HOMEM DE FERRO</name>
+      <tablerow>2</tablerow>
+      <set rarity="super rare" num="18"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_018.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>HOMEM-ARANHA</name>
+      <tablerow>2</tablerow>
+      <set rarity="common" num="19"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_019.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>HULK</name>
+      <tablerow>2</tablerow>
+      <set rarity="rare" num="20"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_020.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>MAGNETO</name>
+      <tablerow>2</tablerow>
+      <set rarity="rare" num="21"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_021.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>MERCENÁRIO</name>
+      <tablerow>2</tablerow>
+      <set rarity="common" num="22"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_022.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>MÍSTICA</name>
+      <tablerow>2</tablerow>
+      <set rarity="rare" num="23"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_023.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>MULHER INVISÍVEL</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="24"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_024.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+     <card>
+      <name>NICK FURY</name>
+      <tablerow>2</tablerow>
+      <set rarity="rare" num="25"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_025.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>PROFESSOR X</name>
+      <tablerow>2</tablerow>
+      <set rarity="rare" num="26"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_026.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card> 
+
+    <card>
+      <name>REI DO CRIME</name>
+      <tablerow>2</tablerow>
+      <set rarity="super rare" num="27"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_027.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>SR. FANTÁSTICO</name>
+      <tablerow>2</tablerow>
+      <set rarity="super rare" num="28"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_028.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>SURFISTA PRATEADO</name>
+      <tablerow>2</tablerow>
+      <set rarity="common" num="29"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_029.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>TEMPESTADE</name>
+      <tablerow>2</tablerow>
+      <set rarity="common" num="30"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_030.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>THOR</name>
+      <tablerow>2</tablerow>
+      <set rarity="rare" num="31"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_031.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>TOCHA HUMANA</name>
+      <tablerow>2</tablerow>
+      <set rarity="ultra rare" num="32"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_032.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>VAMPIRA</name>
+      <tablerow>2</tablerow>
+      <set rarity="rare" num="33"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_033.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>VENOM</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="34"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_034.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>VIÚVA NEGRA</name>
+      <tablerow>2</tablerow>
+      <set rarity="common" num="35"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_035.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>WOLVERINE</name>
+      <tablerow>2</tablerow>
+      <set rarity="ultra rare" num="36"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_036.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>ESCONDERIJO SECRETO</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="37"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_037.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>FANTASTICARRO</name>
+      <tablerow>2</tablerow>
+      <set rarity="super rare" num="38"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_038.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>MANSÃO DOS VINGADORES</name>
+      <tablerow>2</tablerow>
+      <set rarity="rare" num="39"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_039.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>MÁQUINA DIABÓLICA</name>
+      <tablerow>2</tablerow>
+      <set rarity="uncommon" num="40"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_040.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>PÁSSARO NEGRO</name>
+      <tablerow>2</tablerow>
+      <set rarity="super rare" num="41"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_041.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>VEÍCULO DE COMBATE S.H.I.E.L.D.</name>
+      <tablerow>2</tablerow>
+      <set rarity="rare" num="42"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_042.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>VEÍCULO DE COMBATE S.H.I.E.L.D.</name>
+      <tablerow>2</tablerow>
+      <set rarity="rare" num="42"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_042.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>AVANTE, VINGADORES!</name>
+      <tablerow>1</tablerow>
+      <set rarity="ultra rare" num="43"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_043.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>BATALHA EM ÁREA POVOADA</name>
+      <tablerow>1</tablerow>
+      <set rarity="uncommon" num="44"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_044.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>COMBATE AO CRIME</name>
+      <tablerow>1</tablerow>
+      <set rarity="uncommon" num="45"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_045.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>CONVOCAR REFORÇOS</name>
+      <tablerow>1</tablerow>
+      <set rarity="common" num="46"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_046.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>FOGO CRUZADO</name>
+      <tablerow>1</tablerow>
+      <set rarity="rare" num="47"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_047.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>ONDA DE ASSALTOS</name>
+      <tablerow>1</tablerow>
+      <set rarity="rare" num="48"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_048.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>ONDA DE PÂNICO</name>
+      <tablerow>1</tablerow>
+      <set rarity="common" num="49"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_049.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+    </card>
+
+    <card>
+      <name>RETIRADA ESTRATÉGICA</name>
+      <tablerow>1</tablerow>
+      <set rarity="common" num="50"
+        picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_050.png">BSUM</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+    </card>
+    <!-- Fim Universo Marvel -->
   </cards>
 </cockatrice_carddatabase>
