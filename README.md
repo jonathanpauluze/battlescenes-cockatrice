@@ -9,3 +9,10 @@ Battle Scenes foi o primeiro jogo lançado por Fabian Balbinot através de sua e
 ## Instalação
 
 ⚠ Trabalho em progresso...
+
+## Arte do verso do card
+
+Para adicionar a arte de trás do card existem duas opções:
+
+1. Criar uma pasta chamada `Default` dentro do diretório `themes` de Cockatrice, e então colar a [imagem do verso do card](https://github.com/jonathanpauluze/battlescenes-cockatrice/blob/main/theme/cardback.jpg) nela.
+2. Criar uma pasta com o nome do tema que quiser criar, colar a [imagem do verso do card](https://github.com/jonathanpauluze/battlescenes-cockatrice/blob/main/theme/cardback.jpg) nela, alterar o tema na configuração do Cockatrice.
