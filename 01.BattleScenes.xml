@@ -469,7 +469,7 @@ entretenimento aos fãs.
 
     <!-- Início Universo Marvel -->
     <card>
-      <name>AGENTE S.H.I.E.L.D.</name>
+      <name>AGENTE S.H.I.E.L.D. [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="common" num="1" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_001.png">BSUM</set>
       <prop>
@@ -481,7 +481,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CAPANGA DO REI</name>
+      <name>CAPANGA DO REI [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="common" num="2" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_002.png">BSUM</set>
       <prop>
@@ -493,7 +493,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CAPITÃO AMÉRICA</name>
+      <name>CAPITÃO AMÉRICA [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="super rare" num="3" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_003.png">BSUM</set>
       <prop>
@@ -505,7 +505,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CICLOPE</name>
+      <name>CICLOPE [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="uncommon" num="4" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_004.png">BSUM</set>
       <prop>
@@ -517,7 +517,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>COISA</name>
+      <name>COISA [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="uncommon" num="5" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_005.png">BSUM</set>
       <prop>
@@ -529,7 +529,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>COLOSSUS</name>
+      <name>COLOSSUS [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="uncommon" num="6" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_006.png">BSUM</set>
       <prop>
@@ -541,7 +541,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>DEMOLIDOR</name>
+      <name>DEMOLIDOR [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="common" num="7" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_007.png">BSUM</set>
       <prop>
@@ -553,7 +553,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>DENTE-DE-SABRE</name>
+      <name>DENTE-DE-SABRE [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="uncommon" num="8" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_008.png">BSUM</set>
       <prop>
@@ -565,7 +565,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>DR. DESTINO</name>
+      <name>DR. DESTINO [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="ultra rare" num="9" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_009.png">BSUM</set>
       <prop>
@@ -577,7 +577,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>DR. OCTOPUS</name>
+      <name>DR. OCTOPUS [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="rare" num="10" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_010.png">BSUM</set>
       <prop>
@@ -589,7 +589,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>DUENDE VERDE</name>
+      <name>DUENDE VERDE [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="common" num="11" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_011.png">BSUM</set>
       <prop>
@@ -601,7 +601,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ELEKTRA</name>
+      <name>ELEKTRA [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="uncommon" num="12" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_012.png">BSUM</set>
       <prop>
@@ -613,7 +613,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>EMMA FROST</name>
+      <name>EMMA FROST [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="common" num="13" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_013.png">BSUM</set>
       <prop>
@@ -625,7 +625,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>FANÁTICO</name>
+      <name>FANÁTICO [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="uncommon" num="14" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_014.png">BSUM</set>
       <prop>
@@ -637,7 +637,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>FÊNIX</name>
+      <name>FÊNIX [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="uncommon" num="15" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_015.png">BSUM</set>
       <prop>
@@ -649,7 +649,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>FERA</name>
+      <name>FERA [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="uncommon" num="16" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_016.png">BSUM</set>
       <prop>
@@ -661,7 +661,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>GAVIÃO ARQUEIRO</name>
+      <name>GAVIÃO ARQUEIRO [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="common" num="17" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_017.png">BSUM</set>
       <prop>
@@ -673,7 +673,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>HOMEM DE FERRO</name>
+      <name>HOMEM DE FERRO [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="super rare" num="18" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_018.png">BSUM</set>
       <prop>
@@ -685,7 +685,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>HOMEM-ARANHA</name>
+      <name>HOMEM-ARANHA [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="common" num="19" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_019.png">BSUM</set>
       <prop>
@@ -697,7 +697,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>HULK</name>
+      <name>HULK [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="rare" num="20" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_020.png">BSUM</set>
       <prop>
@@ -709,7 +709,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>MAGNETO</name>
+      <name>MAGNETO [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="rare" num="21" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_021.png">BSUM</set>
       <prop>
@@ -721,7 +721,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>MERCENÁRIO</name>
+      <name>MERCENÁRIO [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="common" num="22" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_022.png">BSUM</set>
       <prop>
@@ -733,7 +733,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>MÍSTICA</name>
+      <name>MÍSTICA [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="rare" num="23" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_023.png">BSUM</set>
       <prop>
@@ -745,7 +745,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>MULHER INVISÍVEL</name>
+      <name>MULHER INVISÍVEL [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="uncommon" num="24" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_024.png">BSUM</set>
       <prop>
@@ -757,7 +757,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>NICK FURY</name>
+      <name>NICK FURY [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="rare" num="25" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_025.png">BSUM</set>
       <prop>
@@ -769,7 +769,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>PROFESSOR X</name>
+      <name>PROFESSOR X [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="rare" num="26" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_026.png">BSUM</set>
       <prop>
@@ -781,7 +781,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>REI DO CRIME</name>
+      <name>REI DO CRIME [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="super rare" num="27" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_027.png">BSUM</set>
       <prop>
@@ -793,7 +793,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>SR. FANTÁSTICO</name>
+      <name>SR. FANTÁSTICO [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="super rare" num="28" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_028.png">BSUM</set>
       <prop>
@@ -805,7 +805,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>SURFISTA PRATEADO</name>
+      <name>SURFISTA PRATEADO [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="common" num="29" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_029.png">BSUM</set>
       <prop>
@@ -817,7 +817,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>TEMPESTADE</name>
+      <name>TEMPESTADE [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="common" num="30" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_030.png">BSUM</set>
       <prop>
@@ -829,7 +829,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>THOR</name>
+      <name>THOR [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="rare" num="31" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_031.png">BSUM</set>
       <prop>
@@ -841,7 +841,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>TOCHA HUMANA</name>
+      <name>TOCHA HUMANA [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="ultra rare" num="32" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_032.png">BSUM</set>
       <prop>
@@ -853,7 +853,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>VAMPIRA</name>
+      <name>VAMPIRA [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="rare" num="33" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_033.png">BSUM</set>
       <prop>
@@ -865,7 +865,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>VENOM</name>
+      <name>VENOM [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="uncommon" num="34" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_034.png">BSUM</set>
       <prop>
@@ -877,7 +877,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>VIÚVA NEGRA</name>
+      <name>VIÚVA NEGRA [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="common" num="35" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_035.png">BSUM</set>
       <prop>
@@ -889,7 +889,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>WOLVERINE</name>
+      <name>WOLVERINE [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="ultra rare" num="36" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_036.png">BSUM</set>
       <prop>
@@ -901,7 +901,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ESCONDERIJO SECRETO</name>
+      <name>ESCONDERIJO SECRETO [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="uncommon" num="37" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_037.png">BSUM</set>
       <prop>
@@ -913,7 +913,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>FANTASTICARRO</name>
+      <name>FANTASTICARRO [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="super rare" num="38" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_038.png">BSUM</set>
       <prop>
@@ -925,7 +925,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>MANSÃO DOS VINGADORES</name>
+      <name>MANSÃO DOS VINGADORES [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="rare" num="39" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_039.png">BSUM</set>
       <prop>
@@ -937,7 +937,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>MÁQUINA DIABÓLICA</name>
+      <name>MÁQUINA DIABÓLICA [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="uncommon" num="40" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_040.png">BSUM</set>
       <prop>
@@ -949,7 +949,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>PÁSSARO NEGRO</name>
+      <name>PÁSSARO NEGRO [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="super rare" num="41" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_041.png">BSUM</set>
       <prop>
@@ -961,7 +961,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>VEÍCULO DE COMBATE S.H.I.E.L.D.</name>
+      <name>VEÍCULO DE COMBATE S.H.I.E.L.D. [BSUM]</name>
       <tablerow>2</tablerow>
       <set rarity="rare" num="42" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_042.png">BSUM</set>
       <prop>
@@ -973,7 +973,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>AVANTE, VINGADORES!</name>
+      <name>AVANTE, VINGADORES! [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="ultra rare" num="43" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_043.png">BSUM</set>
       <prop>
@@ -985,7 +985,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>BATALHA EM ÁREA POVOADA</name>
+      <name>BATALHA EM ÁREA POVOADA [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="uncommon" num="44" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_044.png">BSUM</set>
       <prop>
@@ -997,7 +997,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>COMBATE AO CRIME</name>
+      <name>COMBATE AO CRIME [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="uncommon" num="45" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_045.png">BSUM</set>
       <prop>
@@ -1009,7 +1009,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CONVOCAR REFORÇOS</name>
+      <name>CONVOCAR REFORÇOS [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="common" num="46" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_046.png">BSUM</set>
       <prop>
@@ -1021,7 +1021,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>FOGO CRUZADO</name>
+      <name>FOGO CRUZADO [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="rare" num="47" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_047.png">BSUM</set>
       <prop>
@@ -1033,7 +1033,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ONDA DE ASSALTOS</name>
+      <name>ONDA DE ASSALTOS [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="rare" num="48" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_048.png">BSUM</set>
       <prop>
@@ -1045,7 +1045,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ONDA DE PÂNICO</name>
+      <name>ONDA DE PÂNICO [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="common" num="49" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_049.png">BSUM</set>
       <prop>
@@ -1057,7 +1057,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>RETIRADA ESTRATÉGICA</name>
+      <name>RETIRADA ESTRATÉGICA [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="common" num="50" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_050.png">BSUM</set>
       <prop>
@@ -1069,7 +1069,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>REUNIÃO DOS INTELECTOS</name>
+      <name>REUNIÃO DOS INTELECTOS [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="common" num="51" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_051.png">BSUM</set>
       <prop>
@@ -1081,7 +1081,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>SEM TRÉGUA</name>
+      <name>SEM TRÉGUA [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="common" num="52" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_052.png">BSUM</set>
       <prop>
@@ -1093,7 +1093,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>SUCESSÃO DE EVENTOS</name>
+      <name>SUCESSÃO DE EVENTOS [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="common" num="53" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_053.png">BSUM</set>
       <prop>
@@ -1105,7 +1105,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>SUPER PLANO DE DOMINAÇÃO</name>
+      <name>SUPER PLANO DE DOMINAÇÃO [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="uncommon" num="54" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_054.png">BSUM</set>
       <prop>
@@ -1117,7 +1117,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>TREINAMENTO MENTAL</name>
+      <name>TREINAMENTO MENTAL [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="rare" num="55" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_055.png">BSUM</set>
       <prop>
@@ -1129,7 +1129,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>TREINO NA SALA DE PERIGO</name>
+      <name>TREINO NA SALA DE PERIGO [BSUM]</name>
       <tablerow>1</tablerow>
       <set rarity="uncommon" num="56" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_056.png">BSUM</set>
       <prop>
@@ -1141,7 +1141,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ESQUIVA</name>
+      <name>ESQUIVA [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="57" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_057.png">BSUM</set>
       <prop>
@@ -1153,7 +1153,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>GOLPE DESNORTEANTE</name>
+      <name>GOLPE DESNORTEANTE [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="58" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_058.png">BSUM</set>
       <prop>
@@ -1165,7 +1165,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>PORRETE</name>
+      <name>PORRETE [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="59" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_059.png">BSUM</set>
       <prop>
@@ -1177,7 +1177,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>SALTITAR</name>
+      <name>SALTITAR [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="60" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_060.png">BSUM</set>
       <prop>
@@ -1189,7 +1189,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ESCUDO DO CAPITÃO AMÉRICA</name>
+      <name>ESCUDO DO CAPITÃO AMÉRICA [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="super rare" num="61" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_061.png">BSUM</set>
       <prop>
@@ -1201,7 +1201,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>FRANCO-ATIRADOR</name>
+      <name>FRANCO-ATIRADOR [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="62" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_062.png">BSUM</set>
       <prop>
@@ -1213,7 +1213,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>GRANADA DE MÃO</name>
+      <name>GRANADA DE MÃO [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="63" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_063.png">BSUM</set>
       <prop>
@@ -1225,7 +1225,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>JOGAR OBJETO</name>
+      <name>JOGAR OBJETO [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="64" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_064.png">BSUM</set>
       <prop>
@@ -1237,7 +1237,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>MJÖLNIR</name>
+      <name>MJÖLNIR [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="super rare" num="65" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_065.png">BSUM</set>
       <prop>
@@ -1249,7 +1249,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>TIRO CERTEIRO</name>
+      <name>TIRO CERTEIRO [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="66" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_066.png">BSUM</set>
       <prop>
@@ -1261,7 +1261,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>DISPARO SEQUENCIAL</name>
+      <name>DISPARO SEQUENCIAL [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="67" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_067.png">BSUM</set>
       <prop>
@@ -1273,7 +1273,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ONDA DE ENERGIA</name>
+      <name>ONDA DE ENERGIA [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="68" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_068.png">BSUM</set>
       <prop>
@@ -1285,7 +1285,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>RAIO DE FORÇA</name>
+      <name>RAIO DE FORÇA [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="69" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_069.png">BSUM</set>
       <prop>
@@ -1297,7 +1297,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>RAJADA</name>
+      <name>RAJADA [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="70" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_070.png">BSUM</set>
       <prop>
@@ -1309,7 +1309,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ARRANCAR DAS MÃOS</name>
+      <name>ARRANCAR DAS MÃOS [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="71" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_071.png">BSUM</set>
       <prop>
@@ -1321,7 +1321,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ATRASAR</name>
+      <name>ATRASAR [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="72" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_072.png">BSUM</set>
       <prop>
@@ -1333,7 +1333,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CEGAR</name>
+      <name>CEGAR [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="73" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_073.png">BSUM</set>
       <prop>
@@ -1345,7 +1345,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CELA ELÁSTICA</name>
+      <name>CELA ELÁSTICA [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="74" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_074.png">BSUM</set>
       <prop>
@@ -1357,7 +1357,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CHANTAGEM</name>
+      <name>CHANTAGEM [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="75" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_075.png">BSUM</set>
       <prop>
@@ -1369,7 +1369,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>INVENÇÃO</name>
+      <name>INVENÇÃO [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="rare" num="76" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_076.png">BSUM</set>
       <prop>
@@ -1381,7 +1381,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>PENSAR RÁPIDO</name>
+      <name>PENSAR RÁPIDO [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="ultra rare" num="77" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_077.png">BSUM</set>
       <prop>
@@ -1393,7 +1393,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>REDE DE ESPIONAGEM</name>
+      <name>REDE DE ESPIONAGEM [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="78" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_078.png">BSUM</set>
       <prop>
@@ -1405,7 +1405,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CONTRA-ATAQUE AFIADO</name>
+      <name>CONTRA-ATAQUE AFIADO [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="rare" num="79" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_079.png">BSUM</set>
       <prop>
@@ -1418,7 +1418,7 @@ entretenimento aos fãs.
 
 
     <card>
-      <name>RASGAR</name>
+      <name>RASGAR [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="rare" num="80" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_080.png">BSUM</set>
       <prop>
@@ -1430,7 +1430,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>SABRE</name>
+      <name>SABRE [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="81" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_081.png">BSUM</set>
       <prop>
@@ -1442,7 +1442,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>SUCATEAR</name>
+      <name>SUCATEAR [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="82" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_082.png">BSUM</set>
       <prop>
@@ -1454,7 +1454,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CICATRIZAR</name>
+      <name>CICATRIZAR [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="83" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_083.png">BSUM</set>
       <prop>
@@ -1466,7 +1466,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CURA RÁPIDA</name>
+      <name>CURA RÁPIDA [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="84" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_084.png">BSUM</set>
       <prop>
@@ -1478,7 +1478,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ARREMESSO ESPECIAL</name>
+      <name>ARREMESSO ESPECIAL [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="rare" num="85" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_085.png">BSUM</set>
       <prop>
@@ -1490,7 +1490,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ONDA DE CHOQUE</name>
+      <name>ONDA DE CHOQUE [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="86" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_086.png">BSUM</set>
       <prop>
@@ -1502,7 +1502,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ROCHA</name>
+      <name>ROCHA [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="87" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_087.png">BSUM</set>
       <prop>
@@ -1514,7 +1514,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>SUPER SOCO</name>
+      <name>SUPER SOCO [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="88" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_088.png">BSUM</set>
       <prop>
@@ -1526,7 +1526,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>DESATOMIZAR</name>
+      <name>DESATOMIZAR [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="89" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_089.png">BSUM</set>
       <prop>
@@ -1538,7 +1538,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>DESPEDAÇAR A REALIDADE</name>
+      <name>DESPEDAÇAR A REALIDADE [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="90" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_090.png">BSUM</set>
       <prop>
@@ -1550,7 +1550,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>POLTERGEIST</name>
+      <name>POLTERGEIST [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="91" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_091.png">BSUM</set>
       <prop>
@@ -1562,7 +1562,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ALUCINAÇÃO</name>
+      <name>ALUCINAÇÃO [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="92" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_092.png">BSUM</set>
       <prop>
@@ -1574,7 +1574,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>ONDA DE TRANQUILIDADE</name>
+      <name>ONDA DE TRANQUILIDADE [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="93" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_093.png">BSUM</set>
       <prop>
@@ -1586,7 +1586,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>PARALISAR</name>
+      <name>PARALISAR [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="94" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_094.png">BSUM</set>
       <prop>
@@ -1598,7 +1598,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CARREGAR PARA LONGE</name>
+      <name>CARREGAR PARA LONGE [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="95" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_095.png">BSUM</set>
       <prop>
@@ -1610,7 +1610,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>CIRCUNDAR</name>
+      <name>CIRCUNDAR [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="rare" num="96" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_096.png">BSUM</set>
       <prop>
@@ -1622,7 +1622,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>FLUTUAR</name>
+      <name>FLUTUAR [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="uncommon" num="97" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_097.png">BSUM</set>
       <prop>
@@ -1634,7 +1634,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>BUSCAR REFÚGIO</name>
+      <name>BUSCAR REFÚGIO [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="98" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_098.png">BSUM</set>
       <prop>
@@ -1646,7 +1646,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>PROCURAR INDÍCIOS</name>
+      <name>PROCURAR INDÍCIOS [BSUM]</name>
       <tablerow>3</tablerow>
       <set rarity="common" num="99" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_099.png">BSUM</set>
       <prop>
@@ -1658,7 +1658,7 @@ entretenimento aos fãs.
     </card>
 
     <card>
-      <name>PROTEÇÃO</name>
+      <name>PROTEÇÃO [BSUM]</name>
       <set rarity="common" num="100" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/001_bsum/BSUM_100.png">BSUM</set>
       <prop>
         <layout>normal</layout>
