@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="CAPANGA DO REI [BSUM]"/>
+        <card number="2" name="DENTE-DE-SABRE [BSUM]"/>
+        <card number="1" name="DR. OCTOPUS [BSUM]"/>
+        <card number="3" name="DUENDE VERDE [BSUM]"/>
+        <card number="2" name="ELEKTRA [BSUM]"/>
+        <card number="3" name="FANÁTICO [BSUM]"/>
+        <card number="3" name="MERCENÁRIO [BSUM]"/>
+        <card number="1" name="REI DO CRIME [BSUM]"/>
+        <card number="2" name="VENOM [BSUM]"/>
+        <card number="2" name="ESCONDERIJO SECRETO [BSUM]"/>
+        <card number="3" name="CONVOCAR REFORÇOS [BSUM]"/>
+        <card number="2" name="ONDA DE ASSALTOS [BSUM]"/>
+        <card number="2" name="REUNIÃO DOS INTELECTOS [BSUM]"/>
+        <card number="3" name="SEM TRÉGUA [BSUM]"/>
+        <card number="2" name="SUCESSÃO DE EVENTOS [BSUM]"/>
+        <card number="1" name="PORRETE [BSUM]"/>
+        <card number="3" name="SALTITAR [BSUM]"/>
+        <card number="2" name="FRANCO-ATIRADOR [BSUM]"/>
+        <card number="2" name="GRANADA DE MÃO [BSUM]"/>
+        <card number="3" name="TIRO CERTEIRO [BSUM]"/>
+        <card number="1" name="ARRANCAR DAS MÃOS [BSUM]"/>
+        <card number="2" name="CELA ELÁSTICA [BSUM]"/>
+        <card number="1" name="CHANTAGEM [BSUM]"/>
+        <card number="1" name="INVENÇÃO [BSUM]"/>
+        <card number="1" name="REDE DE ESPIONAGEM [BSUM]"/>
+        <card number="2" name="ROCHA [BSUM]"/>
+        <card number="1" name="SUPER SOCO [BSUM]"/>
+        <card number="1" name="BUSCAR REFÚGIO [BSUM]"/>
+        <card number="2" name="PROCURAR INDÍCIOS [BSUM]"/>
+        <card number="3" name="PROTEÇÃO [BSUM]"/>
+    </zone>
+</cockatrice_deck>

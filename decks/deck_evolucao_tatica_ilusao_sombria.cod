@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="ABOMINÁVEL [BSET]"/>
+        <card number="1" name="ARCADE [BSET]"/>
+        <card number="1" name="BLOB [BSET]"/>
+        <card number="2" name="BUMERANGUE [BSET]"/>
+        <card number="3" name="GROXO [BSET]"/>
+        <card number="2" name="HOMEM-AREIA [BSET]"/>
+        <card number="1" name="LOKI [BSET DECK]"/>
+        <card number="2" name="MERCÚRIO [BSET]"/>
+        <card number="3" name="MESMERO [BSET DECK]"/>
+        <card number="3" name="RÉPLICA DE LOKI [BSET DECK]"/>
+        <card number="2" name="VENOM [BSUM]"/>
+        <card number="2" name="CANHÃO AUTOMÁTICO [BSET]"/>
+        <card number="1" name="PORTAL PARA O MICROVERSO [BSET]"/>
+        <card number="2" name="À ESPREITA [BSET]"/>
+        <card number="2" name="ATAQUE SURPRESA [BSET]"/>
+        <card number="2" name="CONVOCAR REFORÇOS [BSUM]"/>
+        <card number="2" name="IMAGEM FALSA [BSET DECK]"/>
+        <card number="2" name="EXPLOSÃO CERTEIRA [BSET]"/>
+        <card number="2" name="REVIGORAMENTO INCRÍVEL [BSET]"/>
+        <card number="3" name="ATIRADOR POSICIONADO [BSET]"/>
+        <card number="1" name="GRANADA DE MÃO [BSUM]"/>
+        <card number="3" name="JOGAR OBJETO [BSUM]"/>
+        <card number="3" name="ARDIL EMARANHADO [BSET]"/>
+        <card number="3" name="ATACAR E ESPIONAR [BSET]"/>
+        <card number="1" name="BOMBARDEIO ELÁSTICO [BSET]"/>
+        <card number="1" name="RESGATE ENROSCADO [BSET]"/>
+        <card number="2" name="SUPER COMPUTADOR [BSET]"/>
+        <card number="2" name="ALUCINAÇÃO [BSUM]"/>
+        <card number="1" name="FAZER ESQUECER [BSET]"/>
+        <card number="1" name="ONDA DE TRANQUILIDADE [BSUM]"/>
+        <card number="1" name="SUGESTÃO COLETIVA [BSET]"/>
+        <card number="1" name="PROTEÇÃO [BSUM]"/>
+        <card number="1" name="REPAROS PROVISÓRIOS [BSET]"/>
+    </zone>
+</cockatrice_deck>

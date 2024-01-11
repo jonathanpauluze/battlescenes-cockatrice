@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="BRUCE BANNER [BSET]"/>
+        <card number="1" name="DEADPOOL [BSET]"/>
+        <card number="1" name="HOMEM DE FERRO [BSET]"/>
+        <card number="3" name="HULK [BSET]"/>
+        <card number="1" name="HULK [BSUM]"/>
+        <card number="2" name="MULHER-HULK [BSET]"/>
+        <card number="2" name="PSYLOCKE [BSET]"/>
+        <card number="3" name="SURFISTA PRATEADO [BSUM]"/>
+        <card number="2" name="TEMPESTADE [BSUM]"/>
+        <card number="1" name="THOR [BSET DECK]"/>
+        <card number="2" name="THOR [BSUM]"/>
+        <card number="1" name="VISÃO [BSET DECK]"/>
+        <card number="2" name="WOLVERINE [BSET]"/>
+        <card number="1" name="BUSCA E APREENSÃO [BSET]"/>
+        <card number="2" name="ESTRATAGEMA INFALÍVEL [BSET]"/>
+        <card number="2" name="INVOCAR O RELÂMPAGO [BSET DECK]"/>
+        <card number="2" name="GARRAS IMOLADORAS [BSET]"/>
+        <card number="1" name="PROTEGER OS INOCENTES [BSET]"/>
+        <card number="1" name="RAJADA IMPLACÁVEL [BSET]"/>
+        <card number="1" name="MJÖLNIR [BSUM]"/>
+        <card number="3" name="DRENO DE FORÇA [BSET]"/>
+        <card number="2" name="DISPARO SEQUENCIAL [BSUM]"/>
+        <card number="1" name="RAIO DE FORÇA [BSUM]"/>
+        <card number="3" name="RAJADA [BSUM]"/>
+        <card number="3" name="ARRANCAR PEDAÇO [BSET]"/>
+        <card number="2" name="ATAQUE DE FÚRIA [BSET]"/>
+        <card number="1" name="PÔR ABAIXO [BSET]"/>
+        <card number="1" name="SEQUÊNCIA DE GOLPES [BSET]"/>
+        <card number="3" name="SUPER SOCO [BSET DECK]"/>
+        <card number="3" name="SUPER SOCO [BSUM]"/>
+        <card number="2" name="ARREMETIDA VELOZ [BSET]"/>
+        <card number="1" name="TRANSPORTE AÉREO [BSET]"/>
+        <card number="2" name="J. J. JAMESON [BSET]"/>
+    </zone>
+</cockatrice_deck>
