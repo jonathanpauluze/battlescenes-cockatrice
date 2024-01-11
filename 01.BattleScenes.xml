@@ -2398,7 +2398,7 @@
     </card>
 
     <card>
-      <name>GARRAS IMOLADORES [BSET]</name>
+      <name>GARRAS IMOLADORAS [BSET]</name>
       <set rarity="uncommon" num="53" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_053.png">BSET</set>
       <prop>
         <layout>normal</layout>
@@ -2612,6 +2612,470 @@
       </prop>
       <tablerow>3</tablerow>
     </card>
+
+    <card>
+      <name>TREINAMENTO INTENSO [BSET]</name>
+      <set rarity="uncommon" num="71" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_071.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ATIRADOR POSICIONADO [BSET]</name>
+      <set rarity="common" num="72" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_072.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>METRALHADORA [BSET]</name>
+      <set rarity="common" num="73" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_073.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ROMPANTE DE PRECISÃO [BSET]</name>
+      <set rarity="uncommon" num="74" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_074.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>CONCENTRAR PODER [BSET]</name>
+      <set rarity="ultra rare" num="75" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_075.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>DRENO DE FORÇA [BSET]</name>
+      <set rarity="common" num="76" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_076.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ARDIL EMARANHADO [BSET]</name>
+      <set rarity="common" num="77" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_077.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ATACAR E ESPIONAR [BSET]</name>
+      <set rarity="common" num="78" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_078.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>BOMBARDEIO ELÁSTICO [BSET]</name>
+      <set rarity="rare" num="79" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_079.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>RESGATE ENROSCADO [BSET]</name>
+      <set rarity="common" num="80" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_080.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ROUBO DE IDEIAS [BSET]</name>
+      <set rarity="rare" num="81" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_081.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>SUPER COMPUTADOR [BSET]</name>
+      <set rarity="common" num="82" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_082.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ARRANCAR PEDAÇO [BSET]</name>
+      <set rarity="common" num="83" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_083.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ATAQUE DE FÚRIA [BSET]</name>
+      <set rarity="common" num="84" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_084.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ROMPANTE DE BESTIALIDADE [BSET]</name>
+      <set rarity="uncommon" num="85" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_085.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>RECUPERAÇÃO RÁPIDA [BSET]</name>
+      <set rarity="common" num="86" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_086.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ROMPANTE DE RECUPERAÇÃO [BSET]</name>
+      <set rarity="uncommon" num="87" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_087.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>PÔR ABAIXO [BSET]</name>
+      <set rarity="common" num="88" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_088.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ROMPANTE DE BRUTALIDADE [BSET]</name>
+      <set rarity="uncommon" num="89" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_089.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>SEQUÊNCIA DE GOLPES [BSET]</name>
+      <set rarity="common" num="90" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_090.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ASSOMBRAR [BSET]</name>
+      <set rarity="ultra rare" num="91" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_091.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ERGUER COM A MENTE [BSET]</name>
+      <set rarity="common" num="92" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_092.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>FRAGMENTAÇÃO MOLECULAR [BSET]</name>
+      <set rarity="common" num="93" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_093.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>DISPERSAR INTELECTO [BSET]</name>
+      <set rarity="super rare" num="94" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_094.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>FAZER ESQUECER [BSET]</name>
+      <set rarity="rare" num="95" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_095.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>SUGESTÃO COLETIVA [BSET]</name>
+      <set rarity="uncommon" num="96" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_096.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ARREMETIDA VELOZ [BSET]</name>
+      <set rarity="common" num="97" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_097.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ROMPANTE HIPERSÔNICO [BSET]</name>
+      <set rarity="uncommon" num="98" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_098.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>TRANSPORTE AÉREO [BSET]</name>
+      <set rarity="common" num="99" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_099.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>REPAROS PROVISÓRIOS [BSET]</name>
+      <set rarity="common" num="100" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_100.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
     <!-- Fim Evolução Tática -->
+
+
+    <!-- Início Evolução Tática Deck -->
+    <card>
+      <name>LOKI [BSET DECK]</name>
+      <set rarity="deck" num="13" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/003_bset_deck/BSET_DECK_013.png">BSET_DECK</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>MESMERO [BSET DECK]</name>
+      <set rarity="deck" num="15" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/003_bset_deck/BSET_DECK_015.png">BSET_DECK</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>RÉPLICA DE LOKI [BSET DECK]</name>
+      <set rarity="deck" num="18" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/003_bset_deck/BSET_DECK_018.png">BSET_DECK</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>THOR [BSET DECK]</name>
+      <set rarity="deck" num="21" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/003_bset_deck/BSET_DECK_021.png">BSET_DECK</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>6/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>VISÃO [BSET DECK]</name>
+      <set rarity="deck" num="24" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/003_bset_deck/BSET_DECK_024.png">BSET_DECK</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>IMAGEM FALSA [BSET DECK]</name>
+      <set rarity="deck" num="33" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/003_bset_deck/BSET_DECK_033.png">BSET_DECK</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>INVOCAR O RELÂMPAGO [BSET DECK]</name>
+      <set rarity="deck" num="34" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/003_bset_deck/BSET_DECK_034.png">BSET_DECK</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>SUPER SOCO [BSET DECK]</name>
+      <set rarity="deck" num="57" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/003_bset_deck/BSET_DECK_057.png">BSET_DECK</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <!-- Fim Evolução Tática Deck -->
   </cards>
 </cockatrice_carddatabase>
