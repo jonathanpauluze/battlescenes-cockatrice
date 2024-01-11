@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Universo Marvel - Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="AGENTE S.H.I.E.L.D. [BSUM]" />
+        <card number="2" name="COLOSSUS [BSUM]" />
+        <card number="3" name="DEMOLIDOR [BSUM]" />
+        <card number="2" name="FERA [BSUM]" />
+        <card number="1" name="HOMEM DE FERRO [BSUM]" />
+        <card number="2" name="HOMEM-ARANHA [BSUM]" />
+        <card number="1" name="NICK FURY [BSUM]" />
+        <card number="3" name="SURFISTA PRATEADO [BSUM]" />
+        <card number="2" name="TEMPESTADE [BSUM]" />
+        <card number="2" name="VIÚVA NEGRA [BSUM]" />
+        <card number="1" name="VEÍCULO DE COMBATE S.H.I.E.L.D. [BSUM]" />
+        <card number="2" name="COMBATE AO CRIME [BSUM]" />
+        <card number="3" name="CONVOCAR REFORÇOS [BSUM]" />
+        <card number="2" name="RETIRADA ESTRATÉGICA [BSUM]" />
+        <card number="3" name="SUCESSÃO DE EVENTOS [BSUM]" />
+        <card number="1" name="ARREMESSO ESPECIAL [BSUM]" />
+        <card number="2" name="BUSCAR REFÚGIO [BSUM]" />
+        <card number="2" name="CARREGAR PARA LONGE [BSUM]" />
+        <card number="1" name="CIRCUNDAR [BSUM]" />
+        <card number="2" name="ESQUIVA [BSUM]" />
+        <card number="3" name="FLUTUAR [BSUM]" />
+        <card number="2" name="FRANCO-ATIRADOR [BSUM]" />
+        <card number="3" name="GOLPE DESNORTEANTE [BSUM]" />
+        <card number="1" name="ONDA DE ENERGIA [BSUM]" />
+        <card number="3" name="PROCURAR INDÍCIOS [BSUM]" />
+        <card number="2" name="RAIO DE FORÇA [BSUM]" />
+        <card number="2" name="RAJADA [BSUM]" />
+        <card number="2" name="SALTITAR [BSUM]" />
+        <card number="2" name="SUPER SOCO [BSUM]" />
+    </zone>
+</cockatrice_deck>
