@@ -8,15 +8,14 @@
 <!--
   ==== AVISO ====
   As imagens das cartas são de direitos da COPAG/Battle Scenes/Marvel.
-  As imagens compartilhadas neste espaço, têm a intenção exclusiva de proporcionar diversão e
-entretenimento aos fãs.
+  As imagens compartilhadas neste espaço, têm a intenção exclusiva de proporcionar diversão e entretenimento aos fãs.
   Não visamos violar direitos autorais nem obter lucros com o uso dessas imagens.
 -->
 
 <!--
   Utilização do tablerow
   1: Cenário
-  2: Personagem
+  2: Personagem/Suporte
   3: Habilidade
 -->
 
@@ -2115,6 +2114,503 @@ entretenimento aos fãs.
         <pt>5/2</pt>
       </prop>
       <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>NINJA DO TENTÁCULO [BSET]</name>
+      <set rarity="uncommon" num="31" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_031.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>PEPPER POTTS [BSET]</name>
+      <set rarity="uncommon" num="32" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_032.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>1/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>PROFESSOR X [BSET]</name>
+      <set rarity="rare" num="33" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_033.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>PSYLOCKE [BSET]</name>
+      <set rarity="common" num="34" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_034.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>RINO [BSET]</name>
+      <set rarity="rare" num="35" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_035.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>ROCKET RACCOON [BSET]</name>
+      <set rarity="common" num="36" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_036.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>SERPENTE DA LUA [BSET]</name>
+      <set rarity="super rare" num="37" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_037.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>TOUPEIRA [BSET]</name>
+      <set rarity="common" num="38" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_038.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>WOLVERINE [BSET]</name>
+      <set rarity="common" num="39" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_039.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>AMPLIFICADOR MENTAL [BSET]</name>
+      <set rarity="super rare" num="40" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_040.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+        <pt>5/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>CANHÃO AUTOMÁTICO [BSET]</name>
+      <set rarity="uncommon" num="41" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_041.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>CÉREBRO [BSET]</name>
+      <set rarity="rare" num="42" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_042.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>INTERCEPTADOR DE VOZ [BSET]</name>
+      <set rarity="common" num="43" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_043.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>MÁQUINA DE BLOQUEIO MENTAL [BSET]</name>
+      <set rarity="super rare" num="44" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_044.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>PORTAL PARA O MICROVERSO [BSET]</name>
+      <set rarity="rare" num="45" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_045.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+        <pt>4/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>TOUPEIRA MECÂNICA [BSET]</name>
+      <set rarity="uncommon" num="46" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_046.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+        <pt>3/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>VEÍCULO DE COMBATE S.H.I.E.L.D. [BSET]</name>
+      <set rarity="uncommon" num="47" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_047.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>À ESPREITA [BSET]</name>
+      <set rarity="uncommon" num="48" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_048.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>ATAQUE SURPRESA [BSET]</name>
+      <set rarity="uncommon" num="49" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_049.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>BUSCA E APREENSÃO [BSET]</name>
+      <set rarity="uncommon" num="50" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_050.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>ESTRATAGEMA INFALÍVEL [BSET]</name>
+      <set rarity="common" num="51" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_051.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>EXPLOSÃO CERTEIRA [BSET]</name>
+      <set rarity="uncommon" num="52" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_052.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>GARRAS IMOLADORES [BSET]</name>
+      <set rarity="uncommon" num="53" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_053.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>IMORTALIDADE INSÓLITA [BSET]</name>
+      <set rarity="common" num="54" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_054.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>MANCHETE DO CLARIM [BSET]</name>
+      <set rarity="rare" num="55" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_055.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>MOMENTO DE HESITAÇÃO [BSET]</name>
+      <set rarity="rare" num="56" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_056.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>MOVIMENTO IMPREVISÍVEL [BSET]</name>
+      <set rarity="uncommon" num="57" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_057.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>MÚLTIPLAS OPÇÕES [BSET]</name>
+      <set rarity="super rare" num="58" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_058.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>PLANAR INVISÍVEL [BSET]</name>
+      <set rarity="uncommon" num="59" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_059.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>PLANO MAGISTRAL - ESTRATÉGIA [BSET]</name>
+      <set rarity="common" num="60" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_060.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>PLANO MAGISTRAL - EXECUÇÃO [BSET]</name>
+      <set rarity="common" num="61" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_061.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>PLANO MAGISTRAL - OBJETIVO [BSET]</name>
+      <set rarity="common" num="62" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_062.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>PROTEGER OS INOCENTES [BSET]</name>
+      <set rarity="uncommon" num="63" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_063.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>RAJADA IMPLACÁVEL [BSET]</name>
+      <set rarity="common" num="64" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_064.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>REVIGORAMENTO INCRÍVEL [BSET]</name>
+      <set rarity="uncommon" num="65" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_065.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>REVISITAR O PASSADO [BSET]</name>
+      <set rarity="uncommon" num="66" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_066.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>TERRENO ACIDENTADO [BSET]</name>
+      <set rarity="uncommon" num="67" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_067.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>UNIVERSO PARALELO [BSET]</name>
+      <set rarity="common" num="68" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_068.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>GOLPE TREINADO [BSET]</name>
+      <set rarity="rare" num="69" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_069.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+
+    <card>
+      <name>ROMPANTE DE MOBILIDADE [BSET]</name>
+      <set rarity="uncommon" num="70" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/002_bset/BSET_070.png">BSET</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Habilidade</type>
+        <maintype>Habilidade</maintype>
+      </prop>
+      <tablerow>3</tablerow>
     </card>
     <!-- Fim Evolução Tática -->
   </cards>
