@@ -26,6 +26,7 @@
   Quadrado ■: rare
   Losango ⧫: super rare
   Estrela ★: ultra rare
+  Cards de deck: deck
 -->
 
 <cockatrice_carddatabase version="4">
@@ -788,7 +789,7 @@
         <side>front</side>
         <type>Personagem</type>
         <maintype>Personagem</maintype>
-        <pt>3/*</pt>
+        <pt>3/0</pt>
       </prop>
     </card>
 
@@ -3077,5 +3078,651 @@
       <tablerow>3</tablerow>
     </card>
     <!-- Fim Evolução Tática Deck -->
+
+
+    <!-- Início Poderes Ocultos -->
+    <card>
+      <name>ASA VERMELHA [BSPO]</name>
+      <set rarity="common" num="1" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_001.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>BANSHEE [BSPO]</name>
+      <set rarity="common" num="2" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_002.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>BOMBA-A [BSPO]</name>
+      <set rarity="uncommon" num="3" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_003.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>7/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>CHICOTE NEGRO [BSPO]</name>
+      <set rarity="common" num="4" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_004.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>CONSTRITOR [BSPO]</name>
+      <set rarity="uncommon" num="5" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_005.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>CONTRAPARTE-ARANHA [BSPO]</name>
+      <set rarity="uncommon" num="6" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_006.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>DEADPOOL [BSPO]</name>
+      <set rarity="common" num="7" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_007.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>DEMOLIDOR [BSPO]</name>
+      <set rarity="super rare" num="8" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_008.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>DR. DESTINO [BSPO]</name>
+      <set rarity="rare" num="9" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_009.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>6/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>DR. ESTRANHO [BSPO]</name>
+      <set rarity="ultra rare" num="10" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_010.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>ESCORPIÃO [BSPO]</name>
+      <set rarity="uncommon" num="11" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_011.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>ESPIRAL [BSPO]</name>
+      <set rarity="rare" num="12" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_012.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>FALCÃO [BSPO]</name>
+      <set rarity="common" num="13" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_013.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>FEITICEIRA ESCARLATE [BSPO]</name>
+      <set rarity="ultra rare" num="14" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_014.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>HOMEM-ABSORVENTE [BSPO]</name>
+      <set rarity="rare" num="15" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_015.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>6/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>HOMEM PÚRPURA [BSPO]</name>
+      <set rarity="uncommon" num="16" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_016.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>JUSTIÇA [BSPO]</name>
+      <set rarity="common" num="17" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_017.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>JUSTICEIRO [BSPO]</name>
+      <set rarity="rare" num="18" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_018.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>LUKE CAGE [BSPO]</name>
+      <set rarity="uncommon" num="19" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_019.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>MAGIA [BSPO]</name>
+      <set rarity="uncommon" num="20" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_020.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>MALEKITH - O MALDITO [BSPO]</name>
+      <set rarity="uncommon" num="21" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_021.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>6/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>MANDARIM [BSPO]</name>
+      <set rarity="uncommon" num="22" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_022.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>MEDULA [BSPO]</name>
+      <set rarity="uncommon" num="23" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_023.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>MISS MARVEL [BSPO]</name>
+      <set rarity="common" num="24" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_024.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>MÍSTICA [BSPO]</name>
+      <set rarity="rare" num="25" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_025.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>MOLLY HAYES [BSPO]</name>
+      <set rarity="rare" num="26" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_026.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>MOTOQUEIRO FANTASMA [BSPO]</name>
+      <set rarity="super rare" num="27" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_027.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>MYSTÉRIO [BSPO]</name>
+      <set rarity="super rare" num="28" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_028.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>NOTURNO [BSPO]</name>
+      <set rarity="rare" num="29" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_029.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>ÔMEGA VERMELHO [BSPO]</name>
+      <set rarity="ultra rare" num="30" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_030.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>5/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>OSSOS CRUZADOS [BSPO]</name>
+      <set rarity="common" num="31" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_031.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>PETE WISDOM [BSPO]</name>
+      <set rarity="common" num="32" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_032.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>POLARIS [BSPO]</name>
+      <set rarity="common" num="33" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_033.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>PUNHO DE FERRO [BSPO]</name>
+      <set rarity="common" num="34" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_034.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>RAIO NEGRO [BSPO]</name>
+      <set rarity="ultra rare" num="35" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_035.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>SPEEDBALL [BSPO]</name>
+      <set rarity="uncommon" num="36" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_036.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>TIA MAY [BSPO]</name>
+      <set rarity="uncommon" num="37" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_037.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>1/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>TITÂNIA [BSPO]</name>
+      <set rarity="common" num="38" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_038.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>6/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>TREINADOR [BSPO]</name>
+      <set rarity="super rare" num="39" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_039.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Personagem</type>
+        <maintype>Personagem</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>ARMADILHA REFORÇADA [BSPO]</name>
+      <set rarity="uncommon" num="40" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_040.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>CHAMARIZ HOLOGRÁFICO [BSPO]</name>
+      <set rarity="common" num="41" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_041.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+        <pt>2/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>EMBARALHADOR ELETRÔNICO [BSPO]</name>
+      <set rarity="rare" num="42" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_042.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>MINA EXPLOSIVA [BSPO]</name>
+      <set rarity="common" num="43" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_043.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Suporte</type>
+        <maintype>Suporte</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+
+    <card>
+      <name>A ESSÊNCIA DO MEDO [BSPO]</name>
+      <set rarity="uncommon" num="44" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_044.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>AGUARDAR A VEZ [BSPO]</name>
+      <set rarity="common" num="45" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_045.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>BEN URICH INVESTIGA [BSPO]</name>
+      <set rarity="common" num="46" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_046.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>CALMARIA [BSPO]</name>
+      <set rarity="common" num="47" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_047.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>CONFLITO GENERALIZADO [BSPO]</name>
+      <set rarity="common" num="48" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_048.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>CONFRONTO ANUNCIADO [BSPO]</name>
+      <set rarity="common" num="49" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_049.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+
+    <card>
+      <name>CONTRA-ESPIONAGEM [BSPO]</name>
+      <set rarity="common" num="50" picurl="https://raw.githubusercontent.com/jonathanpauluze/battlescenes-cockatrice/main/images/004_bspo/BSPO_050.png">BSPO</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Cenário</type>
+        <maintype>Cenário</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <!-- Fim Poderes Ocultos -->
   </cards>
 </cockatrice_carddatabase>
